@@ -11,17 +11,19 @@
 numpy
 pandas
 scipy
+tscv
+prettytable
 
 # Viz libs
 matplotlib
 seaborn
 
 # Stats libraries
-scikit-learn
+scikit-learn==0.22.2
 statsmodels
 
-# PyFlux
-pyflux
+# Auto-Arima
+pmdarima
 
 # Facebook Prophet
 fbprophet
